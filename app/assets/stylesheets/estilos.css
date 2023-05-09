@@ -1,0 +1,13 @@
+.text-decoration{
+    text-decoration:none;
+    padding: 1%;
+    justify-content: center;
+    color:gray;
+}
+
+.profile_img {
+    width: 200px;
+    height: 200px;
+    margin-left: 20%;
+    border-radius: 50%;
+}
